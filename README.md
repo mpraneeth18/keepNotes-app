@@ -26,7 +26,7 @@ A simple yet powerful note-taking application built with **React.js** for the fr
 
 ## 📂 Folder Structure
 
-keeper-app/ │ ├── client/ # React frontend │ ├── public/ │ └── src/ │ ├── components/ # Note, Header, Footer, etc. │ ├── pages/ # Home, Edit Page (if any) │ ├── App.js │ └── index.js │ ├── server/ # Backend (optional) │ ├── models/ # Mongoose schemas │ ├── routes/ # API routes │ └── server.js │ ├── package.json └── README.md
+keepNotes-app/ │ ├── client/ # React frontend │ ├── public/ │ └── src/ │ ├── components/ # Note, Header, Footer, etc. │ ├── pages/ # Home, Edit Page (if any) │ ├── App.js │ └── index.js │ ├── server/ # Backend (optional) │ ├── models/ # Mongoose schemas │ ├── routes/ # API routes │ └── server.js │ ├── package.json └── README.md
 
 
 ---
