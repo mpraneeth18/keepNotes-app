@@ -1,6 +1,6 @@
-# 📝 Keeper App
+# 📝 KeepNotes App
 
-A simple yet powerful note-taking application built with **React.js** for the frontend and **MongoDB** for data storage. The Keeper App allows users to create, edit, and delete notes with an intuitive and responsive user interface.
+A simple yet powerful note-taking application built with **React.js** for the frontend and **MongoDB** for data storage. The KeepNotes App allows users to create, edit, and delete notes with an intuitive and responsive user interface.
 
 ---
 
