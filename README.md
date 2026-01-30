@@ -41,8 +41,8 @@ keeper-app/ │ ├── client/ # React frontend │ ├── public/ │ └
 
 ```bash
 # Clone the repository
-git clone https://github.com/hemanth-1116/keeper-app
-cd keeper-app
+git clone https://github.com/mpraneeth18/keepNotes-app
+cd keepNotes-app
 
 # Install server dependencies (if server is present)
 cd server
